@@ -8,7 +8,7 @@ url: https://hacked-jekyll.netlify.app
 # this information shows on the homepage, all fields are optional and
 # can be declared eitehr as a single string or as a string array/hash
 json:
-  name: Place Holder
+  name: Joey Zzz
   description:
     - Hello!
     - This tiny website
@@ -19,11 +19,8 @@ json:
     - Department of Themes
     - 123 Main St, Anytown, USA
   contact:
-    office: Foobar Hall 1.23
-    phone: +1 234 567 890
-    email: username@domain.com
-  demo: https://hacked-jekyll.netlify.app
-  source: https://github.com/piazzai/hacked-jekyll
+    office: xxxxx
+    email: adorezyy@gmail.com
   profiles:
     facebook: https://www.facebook.com
     twitter: https://twitter.com
