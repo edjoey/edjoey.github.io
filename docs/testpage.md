@@ -32,10 +32,5 @@ https://apisix.apache.org/zh/blog/2022/06/14/how-mse-supports-canary-release-wit
     - Python
 
 - 同基于OpenResty 技术
-
-
-
-
-
 - 系统保护定义接口限速
 - 故障节点摘取
