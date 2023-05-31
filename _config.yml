@@ -11,15 +11,14 @@ json:
   name: Joey Zzz
   description:
     - Hello!
-    - This tiny website
-    - Looks like json
+    - I'm Joey Zzz
+    - I'm a software engineer
   cv: assets/cv.pdf
+  docs:
+    - testPage: docs/testPage.md
   address:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - Shanghai
   contact:
-    office: xxxxx
     email: adorezyy@gmail.com
   profiles:
     facebook: https://www.facebook.com
