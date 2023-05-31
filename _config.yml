@@ -10,12 +10,9 @@ url: https://hacked-jekyll.netlify.app
 json:
   name: Joey Zzz
   description:
-    - Hello!
-    - I'm Joey Zzz
-    - I'm a software engineer
-  cv: assets/cv.pdf
-  docs:
-    - testPage: docs/testPage.md
+    - Hello all!
+    - This is my test blog
+  cv: docs/testPage.md
   address:
     - Shanghai
   contact:
